@@ -1,0 +1,7 @@
+{
+  "name": "Bug-Googlemaps-not-installed",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
